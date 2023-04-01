@@ -1,0 +1,37 @@
+.orange{
+    background-color: #cb7748;
+ }
+ .green{
+     background-color: #6cb08b;
+ }
+ header{
+     justify-content: space-between;
+ }
+ .text{
+     padding-top: 90px;
+     padding-right: 10px;
+ }
+
+ .lightgreen{
+   background-color: #68b0a2;
+ }
+
+ .orangee{
+    background-color: #af5c4e;
+ }
+
+ .azul{
+    background-color: #48a0c6;
+ }
+
+ .rosa{
+    background-color: #c85179;
+ }
+
+ .amarillo{
+    background-color: #d09342;
+ }
+
+.negra{
+    font-weight: 700;
+ }
